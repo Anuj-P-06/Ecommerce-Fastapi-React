@@ -212,11 +212,3 @@ Want to enhance this project? Try adding:
 ## 📄 License
 
 This project is for educational purposes. Feel free to use and modify as needed.
-
-## 🤝 Contributing
-
-This is a learning project, but suggestions and improvements are welcome!
-
----
-
-**Happy coding! 🚀**
