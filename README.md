@@ -24,13 +24,12 @@ A beginner-friendly e-commerce application built with FastAPI (backend) and Reac
 - npm 
 
 ## Screenshot
-<img width="1287" height="852" alt="Image" src="https://github.com/user-attachments/assets/9d4d5108-294d-4c86-bca9-3c58a2531543" />
+<img width="1298" height="788" alt="Image" src="https://github.com/user-attachments/assets/5407e2de-40a8-4c36-a31c-c5d5e15cc831" />
 
 <img width="1246" height="824" alt="Image" src="https://github.com/user-attachments/assets/30252869-0048-431e-95d8-3d605a8b19a2" />
 
-<img width="1298" height="788" alt="Image" src="https://github.com/user-attachments/assets/5407e2de-40a8-4c36-a31c-c5d5e15cc831" />
+<img width="1287" height="852" alt="Image" src="https://github.com/user-attachments/assets/9d4d5108-294d-4c86-bca9-3c58a2531543" />
 
-<img width="1915" height="906" alt="Image" src="https://github.com/user-attachments/assets/eee06e33-69d7-4d3a-8a60-7396972dacb8" />
 
 ##  Installation & Setup
 
