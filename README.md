@@ -4,12 +4,12 @@ A beginner-friendly e-commerce application built with FastAPI (backend) and Reac
 
 ##  Features
 
-- **User/Admin Mode Toggle** - Switch between user and admin views
-- **Category Management** - Admin can create product categories
-- **Product Management** - Admin can add/delete products
-- **Data Validation** - Ensures unique product IDs and existing categories
-- **Real-time Updates** - UI updates automatically when data changes
-- **Responsive Design** - Works on desktop and mobile
+- **User/Admin Mode Toggle** - Switch between user and admin views.
+- **Category Management** - Admin can create product categories.
+- **Product Management** - Admin can add/delete products.
+- **Data Validation** - Ensures unique product IDs and existing categories.
+- **Real-time Updates** - UI updates automatically when data changes.
+- **Responsive Design** - Works on desktop and mobile.
 
 ##  Tech Stack
 
